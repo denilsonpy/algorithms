@@ -4,6 +4,8 @@
 
 Navigation is forward only
 
+![](https://github.com/denilsonpy/algorithms/blob/master/linked_list/images/linked_list.png)
+
 Consists of two parts
 
 ```python
